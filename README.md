@@ -6,7 +6,7 @@ A dietary food recommendation system is a tool that is designed to help business
 
 ### Scope
 
-The scope of this project involved creating a Machine Learning model which recommends handmade products to consumers based on attributes such as nutritional information and recipes. The model could then be integrated into a mobile or web application using a backend infrastructure. 
+The scope of this project involved creating a Machine Learning model which recommends dietary food products to consumers based on attributes such as nutritional information and recipes. The model could then be integrated into a mobile or web application using a backend infrastructure. 
 
 ### Objectives
 
